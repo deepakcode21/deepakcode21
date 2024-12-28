@@ -133,6 +133,18 @@
 ###
 
 <div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=deepakcode21.deepakcode21&"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=deepakcode21&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://profile-counter.glitch.me/deepakcode21/count.svg?"  />
 </div>
 
