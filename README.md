@@ -4,7 +4,7 @@
 <h1 align="center">Hello there! 👋 I'm Deepak Kumar</h1>
 
 
-<img align="right" height="150" src="https://media.giphy.com/media/IThjAlJnD9WNO/giphy.gif?cid=790b7611mzzquogwaywmjct771qpcqqyyt4ghgvir9xtp089&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXM3ODl4d3Q2cmJ1NG9xdGFjYmUxbHFqM2xiemtqZm9leDdhazVseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif"  />
 
 ###
 I’m a **student developer** passionate about learning and creating impactful tech solutions.  
