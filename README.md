@@ -13,7 +13,7 @@ I’m a **student developer** passionate about learning and creating impactful t
 - 🚀 Curious and growth-driven, I view every line of code as a step toward innovation.
 - 🌟 Striving to create applications that are not just functional but also meaningful.
 ###
-</br>
+
 
 ---
 
