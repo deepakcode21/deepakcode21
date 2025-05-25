@@ -110,11 +110,17 @@ I’m a **student developer** passionate about learning and creating impactful t
 
 </div>
 
-<!--- Snake --->
-<div align="center">
- 
-<img src="https://github.com/deepakcode21/deepakcode21/blob/output/github-snake-dark.svg" width="250%">
+---
 
-</div>
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/deepakcode21/deepakcode21/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/deepakcode21/deepakcode21/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/deepakcode21/deepakcode21/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 
 
