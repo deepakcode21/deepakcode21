@@ -107,7 +107,7 @@ I’m a **student developer** passionate about learning and creating impactful t
  
  ## 🏆 GitHub Trophies
 
-   ![](https://github-profile-trophy.vercel.app/?username=deepakcode21&theme=dracula)
+   <img src="https://github-profile-trophy.vercel.app?username=deepakcode21&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="175" alt="trophy graph"  />
 
 </div>
 
