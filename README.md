@@ -62,7 +62,7 @@ I’m a SDE and Freelancer with a passion for crafting high-impact tech solution
 
 #### **FrontEnd Development**
 
-![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)]
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![Next](https://img.shields.io/badge/next%20js-000000?style=flate&logo=nextdotjs&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=white)
@@ -78,7 +78,7 @@ I’m a SDE and Freelancer with a passion for crafting high-impact tech solution
 ![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
-[FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)]
+![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
 ![Soket](https://img.shields.io/badge/Socket.io-010101?&style=flat&logo=Socket.io&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white)
