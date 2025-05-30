@@ -70,6 +70,7 @@ I’m a SDE and Freelancer with a passion for crafting high-impact tech solution
 ![BootStrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Router](https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white)
+![Shadcn](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=white)
 
 
 #### **BackEnd Development**
@@ -77,7 +78,10 @@ I’m a SDE and Freelancer with a passion for crafting high-impact tech solution
 ![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=.net&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+![FastApi](https://img.shields.io/badge/fastapi-109989?style=flat&logo=FASTAPI&logoColor=white)
+![Soket](https://img.shields.io/badge/Socket.io-010101?&style=flat&logo=Socket.io&logoColor=white)
+![Express](https://img.shields.io/badge/Express%20js-000000?style=flat&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=JSON%20web%20tokens&logoColor=white)
 
 #### **Databases**
 
